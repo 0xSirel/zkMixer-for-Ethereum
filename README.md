@@ -29,7 +29,7 @@ Using a uniform amount (1 ETH) makes all notes value‑indistinguishable. Variab
 
 ## High‑Level Flow
 
-![Operational Flow](assets/workflow.png)
+![Operational Flow](assets/workflow-diagram.png)
 
 1. Off‑chain generation: user creates (secret, nullifier) → commitment = H(secret || nullifier).
 2. Merkle insertion: commitment added off‑chain, producing a new root.
