@@ -104,4 +104,5 @@ For circuit compatibility, root and nullifier are passed as `uint256[8]` where e
    truffle exec scripts/test.js --network ganache
    ```
 
-**Author**: [0xSirel](https://github.com/0xSirel)  
+**Author**: [0xSirel](https://github.com/0xSirel)
+**License**: MIT License
