@@ -1,6 +1,11 @@
 
 # Laundeth
 
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+[![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)](#)
+![ZoKrates](https://img.shields.io/badge/ZoKrates-Groth16-brightgreen)
+![Status](https://img.shields.io/badge/Status-Educational%20Prototype-orange)
+
 **An educational Ethereum privacy pool implementation demonstrating Zero-Knowledge Proof integration with smart contracts.**
 
 Laundeth is a mixer / anonymity pool prototype where users deposit a fixed ETH amount and later withdraw to any arbitrary address without creating an on‑chain link between deposit and withdrawal.
